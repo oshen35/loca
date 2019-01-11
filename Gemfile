@@ -24,6 +24,7 @@ gem 'sassc-rails'
 gem 'jquery-rails'
 
 gem 'devise'
+gem 'devise-i18n'
 
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
